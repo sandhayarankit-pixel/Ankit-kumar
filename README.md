@@ -33,7 +33,7 @@ Coming Soon! I am working on Data Analytics projects.
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Ankit-kumar
 - Location: Bilaspur, Himachal Pradesh, India
 
 ---
